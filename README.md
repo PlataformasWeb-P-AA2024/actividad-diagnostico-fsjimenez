@@ -23,6 +23,7 @@ Mover archivos a otra ubicación
 
 Indica la ruta en la que me encuentro actualmente
 
+![Descripción de la imagen](img1.png)
 
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
