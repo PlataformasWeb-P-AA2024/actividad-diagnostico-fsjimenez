@@ -1,8 +1,14 @@
 # Actividad Diagnóstico
 
 
-### 1. ¿Qué lenguajes de programación a usado?
+### 1. ¿Qué lenguajes de programación ha usado?
+
+####Java, Python, PHP, C++, Scala
+
 ### 2. ¿Qué comandos conoce de GIT?
+
+####add, clone, commit, push
+
 ### 3. Ejemplifique el comando de Linux: mv
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
