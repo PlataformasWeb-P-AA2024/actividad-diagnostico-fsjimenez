@@ -3,15 +3,15 @@
 
 ### 1. ¿Qué lenguajes de programación ha usado?
 
-####Java, Python, PHP, C++, Scala
+Java, Python, PHP, C++, Scala
 
 ### 2. ¿Qué comandos conoce de GIT?
 
-####add, clone, commit, push
+add, clone, commit, push
 
 ### 3. Ejemplifique el comando de Linux: mv
 
-####Mover archivos a otra ubicación
+Mover archivos a otra ubicación
 
 ### 4. Ejemplifique el comando de Linux: cp
 
@@ -21,7 +21,8 @@
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
 
-####Indica la ruta en la que me encuentro actualmente
+Indica la ruta en la que me encuentro actualmente
+
 
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
