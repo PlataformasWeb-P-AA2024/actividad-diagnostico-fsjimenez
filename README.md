@@ -34,14 +34,14 @@ Lista archivos y directorios
 
 Indica la ruta en la que me encuentro actualmente
 
-![Descripción de la imagen](img.6png)
+![Descripción de la imagen](img6.png)
 
 ### 8. Ejemplifique el comando de Linux: touch ---
 ### 9. Ejemplifique el comando de Linux: grep ------
 ### 10. Ejemplifique el comando de Linux: cd
 
 Permite moverse entre directorios
-
+![Descripción de la imagen](img7.png)
 
 ### 11. Ejemplifique el comando de Linux: mv
 ### 12. Ejemplifique el comando de Linux: cat
