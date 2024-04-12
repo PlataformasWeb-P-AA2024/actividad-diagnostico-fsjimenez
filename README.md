@@ -25,14 +25,23 @@ Crea un nuevo subdirectorio o carpeta del sistema de archivos
 ![Descripción de la imagen](img4.png)
 
 ### 6. Ejemplifique el comando de Linux: ls
+
+Lista archivos y directorios
+
+![Descripción de la imagen](img5.png)
+
 ### 7. Ejemplifique el comando de Linux: pwd
 
 Indica la ruta en la que me encuentro actualmente
 
-![Descripción de la imagen](img1.png)
+![Descripción de la imagen](img.6png)
 
 ### 8. Ejemplifique el comando de Linux: touch ---
 ### 9. Ejemplifique el comando de Linux: grep ------
 ### 10. Ejemplifique el comando de Linux: cd
+
+Permite moverse entre directorios
+
+
 ### 11. Ejemplifique el comando de Linux: mv
 ### 12. Ejemplifique el comando de Linux: cat
