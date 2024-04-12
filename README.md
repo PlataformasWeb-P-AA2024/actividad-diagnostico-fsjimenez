@@ -12,12 +12,18 @@ add, clone, commit, push
 ### 3. Ejemplifique el comando de Linux: mv
 
 Mover archivos a otra ubicación
+![Descripción de la imagen](img2.png)
 
 ### 4. Ejemplifique el comando de Linux: cp
 
-
+Copia un archivo a otro
+![Descripción de la imagen](img3.png)
 
 ### 5. Ejemplifique el comando de Linux: mkdir
+
+Crea un nuevo subdirectorio o carpeta del sistema de archivos
+![Descripción de la imagen](img4.png)
+
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
 
